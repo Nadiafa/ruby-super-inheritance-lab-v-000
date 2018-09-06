@@ -1,4 +1,4 @@
 class Student
-  def hello
+  def hellophrase
     
 end
