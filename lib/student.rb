@@ -1,5 +1,5 @@
 class Student
-  def hello(phrase)
+  def hello
     phrase 
   end
     
